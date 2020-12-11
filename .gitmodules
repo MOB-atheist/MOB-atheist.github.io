@@ -14,3 +14,7 @@
 	path = ReactJS-study
 	url = git@github.com:MOB-atheist/ReactJS-study.git
 	branch = master
+[submodule "tablejs"]
+	path = tablejs
+	url = git@github.com:MOB-atheist/tablejs.git
+	branch = master
