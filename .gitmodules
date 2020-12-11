@@ -1,0 +1,4 @@
+[submodule "react-todo-app"]
+	path = react-todo-app
+	url = git@github.com:MOB-atheist/react-todo-app.git
+	branch = master
