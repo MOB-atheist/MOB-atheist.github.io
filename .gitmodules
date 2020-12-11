@@ -6,3 +6,7 @@
 	path = Indexed-DB
 	url = git@github.com:MOB-atheist/Indexed-DB.git
 	branch = master
+[submodule "electron-express"]
+	path = electron-express
+	url = git@github.com:MOB-atheist/electron-express.git
+	branch = master
