@@ -10,3 +10,7 @@
 	path = electron-express
 	url = git@github.com:MOB-atheist/electron-express.git
 	branch = master
+[submodule "ReactJS-study"]
+	path = ReactJS-study
+	url = git@github.com:MOB-atheist/ReactJS-study.git
+	branch = master
