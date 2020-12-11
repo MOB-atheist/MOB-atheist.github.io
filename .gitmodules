@@ -18,3 +18,7 @@
 	path = tablejs
 	url = git@github.com:MOB-atheist/tablejs.git
 	branch = master
+[submodule "React-app"]
+	path = React-app
+	url = git@github.com:MOB-atheist/React-app.git
+	branch = master
