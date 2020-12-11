@@ -2,3 +2,7 @@
 	path = react-todo-app
 	url = git@github.com:MOB-atheist/react-todo-app.git
 	branch = master
+[submodule "Indexed-DB"]
+	path = Indexed-DB
+	url = git@github.com:MOB-atheist/Indexed-DB.git
+	branch = master
