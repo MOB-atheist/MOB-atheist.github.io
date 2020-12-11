@@ -22,3 +22,7 @@
 	path = React-app
 	url = git@github.com:MOB-atheist/React-app.git
 	branch = master
+[submodule "what-chat"]
+	path = what-chat
+	url = git@github.com:MOB-atheist/what-chat.git
+	branch = master
